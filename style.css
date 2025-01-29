@@ -1,0 +1,26 @@
+/* *{
+    outline: 1px solid red;
+} */
+.container {
+    width: 80%;
+    margin: 0 auto; 
+}
+.main-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-img{
+    width: 150%;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+}
