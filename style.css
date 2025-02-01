@@ -24,3 +24,17 @@
     display: flex;
     justify-content: center;
 }
+
+/* .esp-classes {
+    display: grid;
+    grid-template-rows: 0fr; 
+    height: 10px;
+}
+.esp-classes-inner {
+    overflow: hidden; 
+} */
+
+
+.esp-classes:hover{
+    grid-template-rows: 1fr; 
+}
